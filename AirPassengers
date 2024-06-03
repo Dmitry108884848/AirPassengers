@@ -1,11 +1,4 @@
 
-
-# ---
-# nbformat: 4
-# nbformat_minor: 0
-# metadata:
-#   provenance: []
-# ---
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -65,7 +58,6 @@ plt.legend()
 plt.show()
  
 
-Теперь у тебя есть метаданные Jupyter Notebook перед кодом. Если у тебя есть другие вопросы или нужна помощь, пиши!
 
 
 
